@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayurmg
 - 👀 I’m interested in Everything related to Tech.
 - I love to explore new technologies and want to learn about latest techs.
-- 🌱 I’m currently learning Web Development 
+- 🌱 I love problems.
 - 📫 How to reach me LinkedIn:: https://www.linkedin.com/in/mayur-gupta-0365a0197
 
 <!---
